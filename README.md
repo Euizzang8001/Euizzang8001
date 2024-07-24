@@ -26,10 +26,10 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/FastAPI-092E20?style=flat&logo=FastAPI&logoColor=white">
           <img src="https://img.shields.io/badge/Streamlit-092E20?style=flat&logo=Streamlit&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/Postgresql-47A248?style=flat&logo=Postgresql&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
           </div>
     </div>
