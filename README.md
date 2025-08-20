@@ -17,20 +17,24 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🐈 DevKor 2023.08 ~ current</li><li> 🦜 KU&A Backend</li>🦕 Adezido Frontend & Backend </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">🐈 DevKor 2023.08 ~ current<br>🦜 KU&A Backend<br>🦕 Yeogijeogi Backend </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/FastAPI-092E20?style=flat&logo=FastAPI&logoColor=white">
-          <img src="https://img.shields.io/badge/Streamlit-092E20?style=flat&logo=Streamlit&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-          <img src="https://img.shields.io/badge/Postgresql-47A248?style=flat&logo=Postgresql&logoColor=white">
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+          <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"><br>
+          <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+          <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+          <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+          <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+          <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"><br>
+          <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+          <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"><br>
+          <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
           </div>
     </div>
     <div align= "center">
