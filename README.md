@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href='mailto:qkrdmlcks55@naver.com'><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link="> </a>
-         <a href='https://verbena-avatar-90e.notion.site/1b7c6f9d5c75803e8a13f9723097a2ba?pvs=74'> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
+         <a href='https://verbena-avatar-90e.notion.site/Python-Developer-253c6f9d5c7580cba91ed159b51d750d?pvs=74'> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
          <a href='mailto:a73875323@gmail.com'> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> </a> </a>
           </div>  <br> 
     <div align= "center">  </div> 
